@@ -1,3 +1,4 @@
+//arraylist
 import java.util.*;
 class Alist {
 
